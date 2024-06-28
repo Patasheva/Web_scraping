@@ -1,0 +1,41 @@
+Ticker,Company,Sector,GICS Sub-Industry,Market Capitalization
+AI.PA,Air Liquide,Basic Materials,Industrial Gases,92.968239104
+AIR.PA,Airbus,Industrials,Aerospace & Defense,101.44391168
+ALO.PA,Alstom,Industrials,Rail Transport,7.240038912
+MT.AS,ArcelorMittal,Basic Materials,Steel,16.960429056
+CS.PA,Axa,Financial Services,Life & Health Insurance,69.2230144
+BNP.PA,BNP Paribas,Financial Services,Diversified Banks,67.317116928
+EN.PA,Bouygues,Industrials,Construction & Engineering,11.296712704
+CAP.PA,Capgemini,Technology,IT Consulting & Other Services,31.547086848
+CA.PA,Carrefour,Consumer Defensive,Hypermarkets & Super Centers,8.949190656
+ACA.PA,Crédit Agricole,Financial Services,Regional Banks,38.547161088
+BN.PA,Danone,Consumer Defensive,Packaged Foods & Meats,36.739825664
+DSY.PA,Dassault Systèmes,Technology,Application Software,46.219702272
+EDEN.PA,Edenred,Industrials,Transaction Processing Services,9.73356032
+ENGI.PA,Engie,Utilities,Gas Utilities,32.348442624
+EL.PA,EssilorLuxottica,Healthcare,"Apparel, Accessories & Luxury Goods",91.658469376
+ERF.PA,Eurofins Scientific,Healthcare,Biotechnologies,8.913626112
+RMS.PA,Hermès,Consumer Cyclical,"Apparel, Accessories & Luxury Goods",227.009052672
+KER.PA,Kering,Consumer Cyclical,"Apparel, Accessories & Luxury Goods",41.494683648
+OR.PA,L'Oréal,Consumer Defensive,Personal Products,219.263975424
+LR.PA,Legrand,Industrials,Electrical Components & Equipment,24.245184512
+MC.PA,LVMH,Consumer Cyclical,"Apparel, Accessories & Luxury Goods",356.469571584
+ML.PA,Michelin,Industrials,Tires & Rubber,25.757335552
+ORA.PA,Orange,Communication Services,Integrated Telecommunication Services,24.869666816
+RI.PA,Pernod Ricard,Consumer Defensive,Distillers & Vintners,31.840090112
+PUB.PA,Publicis,Communication Services,Advertising,24.799584256
+RNO.PA,Renault,Consumer Cyclical,Automobile Manufacturers,13.794185216
+SAF.PA,Safran,Industrials,Aerospace & Defense,81.16199424
+SGO.PA,Saint-Gobain,Industrials,Building Products,36.45974528
+SAN.PA,Sanofi,Healthcare,Pharmaceuticals,112.517644288
+SU.PA,Schneider Electric,Industrials,Electrical Components & Equipment,125.77869824
+GLE.PA,Société Générale,Financial Services,Diversified Banks,17.260619776
+STLAP.PA,Stellantis,Consumer Cyclical,Automobile Manufacturers,54.349553664
+STMPA.PA,STMicroelectronics,Technology,Semiconductors,33.297575936
+TEP.PA,Teleperformance,Communication Services,Outsourcing,5.857631744
+HO.PA,Thales,Industrials,Aerospace & Defense,30.717016064
+TTE.PA,TotalEnergies,Energy,Integrated Oil & Gas,143.730491392
+URW.PA,Unibail-Rodamco-Westfield,Real Estate,Retail REITs,10.2454528
+VIE.PA,Veolia,Industrials,Multi-Utilities,19.987677184
+DG.PA,Vinci,Industrials,Construction & Engineering,56.280440832
+WLN.PA,Worldline,Technology,Data Processing & Outsourced Services,2.86360576
